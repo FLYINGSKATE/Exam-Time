@@ -2,4 +2,4 @@
 Just a Practical
 :school:
 :pizza:
-:sad:
+:tea:
